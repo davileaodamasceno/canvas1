@@ -1,0 +1,22 @@
+#fundo {
+    text-align: center;
+    background-image: url("https://byjusbrazil.github.io/ADV_1-1_C81_AtividadeDaProfessora3/bg1.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  
+  #myCanvas
+  {
+      background-color: rgb(77, 178, 72); 
+      border-style:ridge;
+    border-width:10px;
+    border-radius: 10px;
+    border-color: pink;
+  }
+  
+  
